@@ -185,12 +185,12 @@ pre code {
 }
 /* ======= Promo Section ======= */
 .promo {
-  /*background: #17baef;*/
+  background: #fff;
   /*Caja que contiente el primer slide/vista del landing page */
-  /*background-image: url("http://i724.photobucket.com/albums/ww243/Duckyboy1989/fondogeneral-1_zpsly8nczqr.jpg");*/
+  background-image: url("http://i724.photobucket.com/albums/ww243/Duckyboy1989/fondogeneral-1_zpsly8nczqr.jpg") no-repeat fixed;
   color: #fff;
   padding-top: 550px;
-  height: 980px;
+  /*height: 980px;*/
 }
 .promo .title {
   font-size: 98px;
