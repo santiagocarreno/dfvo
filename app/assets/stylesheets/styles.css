@@ -94,7 +94,7 @@ pre code {
 .header {
   padding: 10px 0;
   /*background: #17baef;*/
-  background-color: #000;
+  /*background-color: #000;*/
   position: fixed;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
