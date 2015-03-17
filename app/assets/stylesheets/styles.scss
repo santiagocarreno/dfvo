@@ -185,9 +185,9 @@ pre code {
 }
 /* ======= Promo Section ======= */
 .promo {
-  background: #fff;
   /*Caja que contiente el primer slide/vista del landing page */
-  background-image: url("http://i724.photobucket.com/albums/ww243/Duckyboy1989/fondogeneral-1_zpsly8nczqr.jpg") no-repeat fixed;
+  background: url("http://i724.photobucket.com/albums/ww243/Duckyboy1989/fondogeneral-1_zpsly8nczqr.jpg");
+  background-size: cover;
   color: #fff;
   padding-top: 550px;
   /*height: 980px;*/
